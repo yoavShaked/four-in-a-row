@@ -1,6 +1,5 @@
-Four In a Row
-
+#Four In a Row
 #Run
-cd four-in-a-row
-npm i
-npm start
+#cd four-in-a-row
+#npm i
+#npm start
