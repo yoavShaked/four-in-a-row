@@ -1,5 +1,6 @@
 Four In a Row
 
-Run
+#Run
+cd four-in-a-row
 npm i
 npm start
